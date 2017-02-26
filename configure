@@ -4773,7 +4773,7 @@ $as_echo "enabled" >&6; }
 
 
        if test "x$LUA" = 'x'; then :
-  for ac_prog in lua lua5.2 lua52 lua5.1 lua51 lua50
+  for ac_prog in lua lua5.2 lua52 lua5.1 lua51 lua50 lua5.3 lua53
 do
   # Extract the first word of "$ac_prog", so it can be a program name with args.
 set dummy $ac_prog; ac_word=$2
@@ -5442,7 +5442,7 @@ $as_echo "enabled" >&6; }
 
 
        if test "x$LUA" = 'x'; then :
-  for ac_prog in lua lua5.2 lua52 lua5.1 lua51 lua50
+  for ac_prog in lua lua5.2 lua52 lua5.1 lua51 lua50 lua5.3 lua53
 do
   # Extract the first word of "$ac_prog", so it can be a program name with args.
 set dummy $ac_prog; ac_word=$2
